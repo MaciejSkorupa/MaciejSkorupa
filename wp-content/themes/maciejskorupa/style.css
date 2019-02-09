@@ -7,7 +7,7 @@ Template: audioman
 Version: 1
 */
 
-@import url("/https://maciejskorupa.github.io/MaciejSkorupa/wp-content/themes/audioman/style.css");
+@import url("http://localhost/https:/maciejskorupa.github.io/MaciejSkorupa/wp-content/themes/audioman/style.css");
 
 
 .section-content-wrapper, .entry-content, .site-content-contain {
