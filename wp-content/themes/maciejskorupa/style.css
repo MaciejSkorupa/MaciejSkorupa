@@ -1,0 +1,38 @@
+/*
+Theme Name: MaciejSkorupa
+Theme URI: http://wordpress:8888/
+Description: This is a child of theme Audioman
+Author: Tomasz Drapala
+Template: audioman
+Version: 1
+*/
+
+@import url("/https://maciejskorupa.github.io/MaciejSkorupa/wp-content/themes/audioman/style.css");
+
+
+.section-content-wrapper, .entry-content, .site-content-contain {
+    background-color: whitesmoke;
+    color: #151515;
+}
+
+.section-title {
+	color: black;
+}
+
+.site-footer {
+	background-color: #151515;
+}
+
+.readmore {
+	color: black;
+}
+
+.comment-notes {
+	color: #888;
+}
+
+
+#playlist-section {
+    padding: 0;
+}
+
